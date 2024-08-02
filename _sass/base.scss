@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap");
+$bodyFont: "Bodoni Moda", serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+
+$color0: #1d2522;
+$color1: #455652;
+$color2: #758889;
+$color3: #a0b2b4;
+$color4: #dfebf2;
+
+body {
+    background: $color0;
+    color: $color2;
+    font-family: $bodyFont;
+}
