@@ -24,5 +24,15 @@ No son, we are not.
 
 ---
 
+# Links
+
+[Other Site](https://me.kanenstephens.com)
+[Github](https://github.com/kanennn)
+[One more thing](https://amiatcamp.com)
+
+[look another link](https://youtube.com)
+
+---
+
 if you're seeing this in live beta, congratulations, i trust you.
 if you're seeing this in git history, congratulations, you know now how weird i am.
