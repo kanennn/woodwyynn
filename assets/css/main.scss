@@ -4,8 +4,11 @@
 @import "base";
 
 body {
+    @media (max-width: 40rem) {
+        font-size: 1em;
+    }
     font-size: 1.5em;
-    max-width: 50rem;
+    max-width: 32em;
     margin: auto;
     text-align: center;
 }
