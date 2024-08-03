@@ -3,3 +3,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "kanen stephens" # the name of your site, e.g. ACME Corp.
 
 author: "kanen stephens"
+repo: "https://github.com/kanennn/kanenstephens"
