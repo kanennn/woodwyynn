@@ -1,11 +1,46 @@
 ---
-layout: default
+layout: front
 title: "Time to say hello"
 ---
 
 # Time to say hello
 
-Time is a wonderful thing. Time is the one thing that will never forget you. Time is always there for you. Time creates and destroys. Time interops with space to make up the universe.
+welcome to my little corner of the internet
+
+**Vendro** is a candid, cozy, cabbalistic, and cabbagy centre for curious connoisseurs.
+
+sit back, relax, grab a blanket and some tea, and enjoy some rainy day internet vibes
+
+<!-- I wish you a happy birthday, happy new year, happy hanukah, and happy groundhog day. -->
+
+---
+
+{% for post in site.posts limit:1 %}
+
+# "{{post.title}}"
+
+## {{post.subtitle}}
+
+\
+[Read my latest story]({{post.url}}){: .btn}
+
+{% endfor %}
+
+---
+
+# I love hedgehogs
+
+[Repo]({{site.repo}}){: .btn}
+[Stories](posts){: .btn}
+
+---
+
+# Define "Vendro"
+
+i'm vendro
+
+\
+_(Vendro is a word I made up, but it's pulled from the Greek word for tree, δέντρο. I hope this site holds up to the standard of being 'treeish')_
 
 ---
 
@@ -24,15 +59,9 @@ No son, we are not.
 
 ---
 
-# Links
+# Sausages
 
-[Other Site](https://me.kanenstephens.com)
-[Github](https://github.com/kanennn)
-[One more thing](https://amiatcamp.com)
+[Github](https://github.com/kanennn){: .btn}
 
-[look another link](https://youtube.com)
-
----
-
-if you're seeing this in live beta, congratulations, i trust you.
-if you're seeing this in git history, congratulations, you know now how weird i am.
+\
+you do get the joke right

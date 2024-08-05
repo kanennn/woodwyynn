@@ -1,6 +1,16 @@
 url: "vendro.kanenstephens.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "kanen stephens" # the name of your site, e.g. ACME Corp.
+baseurl: "/" # the subpath of your site, e.g. /blog
+title: "Vvndro" # the name of your site, e.g. ACME Corp.
+subtitle: "knows a thing or two"
 
 author: "kanen stephens"
 repo: "https://github.com/kanennn/vendro"
+
+collections:
+    posts:
+        output: true
+        permalink: /stories/:title
+
+exclude:
+    - LICENSE
+    - README.md

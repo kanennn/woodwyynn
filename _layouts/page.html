@@ -2,7 +2,9 @@
 layout: base
 ---
 
-{% include header.html title=site.author subtitle='knows a thing or two' %}
+{% include header.html title=page.title subtitle=page.subtitle %}
+
+<hr>
 
 <body>
   {{ content }}

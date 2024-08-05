@@ -34,6 +34,10 @@ footer {
     margin-block-start: 3rem;
 }
 
+.top > * {
+    display: inline-block;
+}
+
 h1 {
     font-size: 2em;
     color: $color4;
@@ -45,14 +49,14 @@ h2 {
 }
 
 hr {
-    //color: $color2;
     border: 0;
     margin: 2.7rem auto;
     border-top: 0.1rem solid $color1;
     max-width: 8rem;
 }
 
-ul {
+ul,
+ol {
     padding-inline-start: 0;
     list-style-position: inside;
 }
@@ -78,4 +82,7 @@ a:focus {
 strong {
     color: $color4;
     font-weight: 600;
+}
+em {
+    color: $color2;
 }
