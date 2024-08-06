@@ -7,7 +7,7 @@ title: "Time to say hello"
 
 welcome to my little corner of the internet
 
-**Vendro** is a candid, cozy, cabbalistic, and cabbagy centre for curious connoisseurs.
+**woodwyynn** is a candid, cozy, cabbalistic, and cabbagy centre for curious connoisseurs.
 
 sit back, relax, grab a blanket and some tea, and enjoy some rainy day internet vibes
 
