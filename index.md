@@ -7,7 +7,7 @@ title: "Time to say hello"
 
 welcome to my little corner of the internet
 
-**woodwyynn** is a candid, cozy, cabbalistic, and cabbagy centre for curious connoisseurs.
+**{{site.title}}** is a candid, cozy, cabbalistic, and cabbagy centre for curious connoisseurs.
 
 sit back, relax, grab a blanket and some tea, and enjoy some rainy day internet vibes
 
@@ -30,17 +30,9 @@ sit back, relax, grab a blanket and some tea, and enjoy some rainy day internet 
 
 # I love hedgehogs
 
-[Repo]({{site.repo}}){: .btn}
-[Stories](posts){: .btn}
-
----
-
-# Define "Vendro"
-
-i'm vendro
-
-\
-_(Vendro is a word I made up, but it's pulled from the Greek word for tree, δέντρο. I hope this site holds up to the standard of being 'treeish')_
+[Stories](posts)
+[Instagram]({{site.insta}})
+[Repo]({{site.repo}})
 
 ---
 
@@ -56,12 +48,3 @@ No son, we are not.
 -   eats dishes when she wants
 -   backstory consists of radish
 -   orange zest is my gender
-
----
-
-# Sausages
-
-[Github](https://github.com/kanennn){: .btn}
-
-\
-you do get the joke right

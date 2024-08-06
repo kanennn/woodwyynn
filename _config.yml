@@ -1,10 +1,14 @@
-url: "vendro.kanenstephens.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "woodwyynn.ktts.me" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-title: "Vvndro" # the name of your site, e.g. ACME Corp.
-subtitle: "knows a thing or two"
+title: "woodwyynn" # the name of your site, e.g. ACME Corp.
+subtitle: "i am not a fruit"
+description: "a candid, cozy, cabbalistic, and cabbagy centre for curious connoisseurs."
+license: "MIT"
 
 author: "kanen stephens"
-repo: "https://github.com/kanennn/vendro"
+
+insta: "https://instagram.com/woodwyynn"
+repo: "https://github.com/kanennn/woodwyynn"
 
 collections:
     posts:
@@ -12,5 +16,4 @@ collections:
         permalink: /stories/:title
 
 exclude:
-    - LICENSE
     - README.md
