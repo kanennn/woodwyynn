@@ -31,6 +31,7 @@ sit back, relax, grab a blanket and some tea, and enjoy some rainy day internet 
 # I love hedgehogs
 
 [Stories](posts)
+[Manifesto](manifesto)
 [Instagram]({{site.insta}})
 [Repo]({{site.repo}})
 
