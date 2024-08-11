@@ -61,7 +61,12 @@ ol {
     list-style-position: inside;
 }
 
-a:not(.subtle) {
+button {
+    all: inherit; // may be sketchy
+}
+
+a:not(.subtle),
+button {
     display: inline-block;
     font-weight: 700;
     padding: 0.25rem 1rem;
@@ -71,8 +76,13 @@ a:not(.subtle) {
     text-decoration: none;
 }
 
+button .clicked {
+}
+
 a:not(.subtle):hover,
-a:not(.subtle):focus {
+a:not(.subtle):focus,
+button:not(.clicked):focus,
+button:not(.clicked):hover {
     color: $color0;
     background-color: $color4;
     border-color: $color4;

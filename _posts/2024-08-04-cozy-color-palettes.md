@@ -10,7 +10,7 @@ I've spent many brain cells puzzling over how some people create beautiful palet
 
 Color wheel fatigue creeps in as I fiddle with shades and hues that always end up looking like highlighter kid aesthetic or just different colors of mud.
 
-Everytime I try and match the color gold I end up with something gross looking.
+Every time I try and match the color gold I end up with something gross looking.
 
 I've wondered, where do I master this technique? What wisdom am I missing?
 
@@ -32,9 +32,9 @@ Why do colors appear the way they are? Why does neon yellow look weird? Why do d
 
 _i'm pretty sure there's actually no real reason for that last one besides america and marketing_
 
-Whether you believe humans evolved independently, were created mystically, or both; you can ackknowledge that human eysesight was not developed at random and without purpose.
+Whether you believe humans evolved independently, were created mystically, or both; you can acknowledge that human eyesight was not developed at random and without purpose.
 
-I believe every color we are able to see is relavent to the human experience for some reason.
+I believe every color we are able to see is relevant to the human experience for some reason.
 
 **Red**, _being the color of intense life, and intense death:_ blood\
 **Green**, _being the common frequency of plant life:_ chlorophyll\

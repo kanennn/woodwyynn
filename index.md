@@ -49,3 +49,15 @@ No son, we are not.
 -   eats dishes when she wants
 -   backstory consists of radish
 -   orange zest is my gender
+
+---
+
+# Gnomes for the gnome army
+
+our ranks shall cover the earth, and we will be unstoppable.
+
+_If you have a friend who would like my content, share this website with them! I always love sharing my content with more wonderful people._
+
+<button id="sharebutton" onclick="navigator.clipboard.writeText(window.location.href)">Share</button>
+
+<script src="/assets/js/sharesplash.js"></script>

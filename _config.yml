@@ -17,3 +17,5 @@ collections:
 
 exclude:
     - README.md
+plugins:
+    - jekyll-coffeescript
