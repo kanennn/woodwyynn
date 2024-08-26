@@ -10,7 +10,7 @@ bees are funny creatues. ants are funny creatures. humans are funny creatures.
 
 i hate clothes.
 
-one of my friends though that statement was funny.
+one of my friends thought that statement was funny.
 
 i'm not against wearing garments bu-
 
