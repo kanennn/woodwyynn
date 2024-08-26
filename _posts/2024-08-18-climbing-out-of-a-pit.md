@@ -10,9 +10,9 @@ i'm giving myself a two minute timer to write this today. i'm exhausted, having 
 
 honestly i feel like i'm doing a bad job.
 
-i talked about last week how i was burnt out and tired, out of creative energy. i said i was going to change. i think i have gotten better, and this week has been pretty good. however in regards to places like this, i'm still a little too busy and a little too tired.
-
 ...
+
+i talked about last week how i was burnt out and tired, out of creative energy. i said i was going to change. i think i have gotten better, and this week has been pretty good. however in regards to places like this, i'm still a little too busy and a little too tired.
 
 i got a little disappointed with myself, thinking about how i just ended up back in the same place.
 
