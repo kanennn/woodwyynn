@@ -12,9 +12,13 @@ honestly i feel like i'm doing a bad job.
 
 i talked about last week how i was burnt out and tired, out of creative energy. i said i was going to change. i think i have gotten better, and this week has been pretty good. however in regards to places like this, i'm still a little too busy and a little too tired.
 
+...
+
 i got a little disappointed with myself, thinking about how i just ended up back in the same place.
 
 i think that's my two minute timer
+
+...
 
 someone very wise once told me though, that there is only ever one battle, one day, one test you have to pass. and you just fight that same battle every 24hrs, take that same test, live that same day. so even if it takes me a day, a week, a month, a year, or more, i still approach every day with courage, as a adventure in and of itself. of course i may gain wisdom from previous battles, but i do not gain discouragement from defeat in wars ended.
 
