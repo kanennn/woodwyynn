@@ -34,6 +34,8 @@ now after poetically describing my dilemma, here's all the ways i've figured out
 
 -   🍠 find a friend: something I've noticed in the search for meaning, is that having a buddy to share art with back and forth helps, whether you're making videos, writing novels, drawing comics, or idk building rockets
 
+-   🫴 habits are great. when you're struggling to find a reason to make art, sometimes just having a routine where at xyz time you make something (make it specific too) can get you past the "why bother". getting started may still be hard, so try creating a specific neat concept or brand for your habit. even better, pair this with your friend(s), and have some mutual expectations to get you going. i.e. having a group chat to draw a new type of flower every day, or to make 1 minute short films every week.
+
 -   🍨 touch grass: seriously, often i notice i have been thinking too much or spending too much time on the internet. stay grounded in reality, not a head-space or the internet. look for real people to connect with. real life happens in real life
 
 -   💒 people don't always have to be listening
@@ -59,3 +61,5 @@ I thought to myself, "each of these trees is so pretty, and yet some of them may
 "but still they grow, and they grow to be beautiful to some place in the world, whether or not someone sees them or cares. they are beautiful, and i know each one is important"
 
 maybe we could learn from the trees
+
+_happy september :D_
